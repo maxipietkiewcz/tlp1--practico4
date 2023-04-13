@@ -1,0 +1,34 @@
+div{
+    text-align: center;
+    border: 2px solid;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.segundo-div{
+    color: aqua;
+}
+div{
+    font-size: 40px;
+    color: chartreuse;
+}
+/*selector de clase*/
+.mi-div{
+        color: rgb(255, 0, 0);
+}
+/*selector de ID*/
+#un-id{
+    color: rgb(25, 0, 255);
+}
+
+.primer-div {
+    display: block;
+   
+}
+
+ul > li {
+    color: blue;
+}
+/*Box ModeL */
+
+

@@ -1,0 +1,45 @@
+
+div{
+    background-color: yellow;
+}
+
+.mi-clase{
+    background-color: antiquewhite;
+    border: green solid;
+    border-radius: 10px;
+}
+
+a{
+    border: red solid;
+    border-radius: 10px;
+}
+
+input{
+    background-color: blue;
+}
+
+
+ul li:last-of-type{
+    color: green;
+}
+
+h3:first-of-type{
+    color: red
+}
+
+span{
+    color: dimgray;
+}
+
+.mi-clase ul li span{
+    color: orangered;
+}
+
+.div p{
+    border: solid;
+    border-color: blueviolet;
+}
+
+div p:first-child{
+    color:darkgrey ;
+}
